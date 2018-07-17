@@ -1,0 +1,26 @@
+6/4/2018:
+N?i dung, trình t? update:
+- Ð? khó tang theo d? dài snake
+- Choi l?i sau khi ch?t
+- Hi?n th? di?m trong quá trình choi
+- Ði?m cao
+- T?i uu Snake
+- T?o chu?ng ng?i v?t
+- Solo giua hai hay nhi?u ngu?i choi
+
+ERROR: san nhanh wd/ wa snake tu chet
+
+Can khac phuc:o upding snake 2
+- khi chon cap do 1 thi delay tang rat cham
+- Khi tra loi choi tiep hay khong bi lag, mot so truong hop k nhan phim
+- Loi chet khi an phim qua nhanh: ran co the di nguoc mac du co cau lenh 
+xu li khong cho phep di nguoc??
+- khi nhap cap do sai thi lan sau chet khong khong hoi nhap cap do nua???
+???
+
+Y tuong:
+- Co nhieu moi, snake chi co the an moi co mau giong minh, neu an 
+mau khac minh se chet
+- sau moi lv giam kich thuoc khung snake
+- Tao chuong ngai vat
+
